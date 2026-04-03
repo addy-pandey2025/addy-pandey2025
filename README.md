@@ -373,3 +373,88 @@
 <a href="#"> 
     <img src="https://img.shields.io/badge/Deliveroo-00CCBC?style=for-the-badge&logo=Deliveroo&logoColor=white"/>
 </a>
+
+
+
+
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  <a href="https://leetcode.com/u/aadarshpandey43/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/aadarshpandey43/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/aadarshpandey43/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/aadarshpandey43/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Rahul_Samanta82?theme=light&ext=heatmap&width=490&font=noto_sans_display" />  
+</p>
+
+
+## 📈 GitHub Analytics
+<div align="center">
+  <!-- <a href="#">
+    <img width="320em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsamanta82&layout=compact&theme=buefy&hide_border=false" alt="Nivedita's top lang"/>
+  </a> -->
+  <a href="#">
+    <img width="520em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=addy-pandey2025&theme=buefy" alt="Adarsh's github summary"/>
+  </a>
+</div>
+  <br>
+
+
+<!-- stats -->
+<h2 align="center">⚡ Stats ⚡</h2>
+<br />
+<p align=center>
+<!-- first row -->
+  <div align=center>
+  <!-- streak stats -->
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=addy-pandey2025&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=addy-pandey2025&theme=default&border=61dafb" />
+        <img align="left" width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=addy-pandey2025&theme=default&border=61dafb" alt="addy-pandey2025's streak stats" />
+      </picture>
+    </a>
+
+  </div>
+  <!-- spaces -->
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
+  <!-- contribution graph -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=addy-pandey2025&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=addy-pandey2025&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=addy-pandey2025&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="rahulsamanta82's contribution graph" />
+    </picture>
+  </a>
+</p>
+
+<hr />
+
+<!-- snake graph -->
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/addy-pandey2025/addy-pandey2025/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+  <br />
+  <br />
+  <br />
+</div>
+
+  <hr />
+  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=addy-pandey2025&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="35" height="35" />&nbsp;&nbsp;Random Dev Quote</p>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+ <a href = "https://github.com/rahulsamanta82/Hackbook/graphs/contributors">
+   <img src = "https://contrib.rocks/image?repo=alexandresanlim/Badges4-README.md-Profile"/>
+ </a>
