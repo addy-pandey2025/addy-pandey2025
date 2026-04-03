@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC40&width=720&lines=%F0%9F%91%8B+%0A+Hey%2C+there%21%21+I'm+Rahul+and+Welcome+to+my+Profile%21)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC40&width=720&lines=%F0%9F%91%8B+%0A+Hey%2C+there%21%21+I'm+Adarsh+and+Welcome+to+my+Profile%21)](https://git.io/typing-svg)
 <div align="center">
   <img src="https://i.postimg.cc/1tBXFwQH/header.gif">
 </div>
@@ -10,19 +10,21 @@
 - 🔭 I’m currently working on **Full Stack development**
 - 🌱 I’m currently learning **React** 
 
-- 👨‍💻 [**View my portfolio**](https://mr-rahul.vercel.app/) to see all of my projects.
+- 👨‍💻 [**View my portfolio**](https) to see all of my projects.
 
-- 📝 Explore detailed **blogs** on my **Design** and **JavaScript** projects [**here.**](https://rahul-funville.vercel.app/)
+<!-- - 📝 Explore detailed **blogs** on my **Design** and **JavaScript** projects [**here.**](https://rahul-funville.vercel.app/) -->
 
-- 💬 Ask me about **UI/UX Design, Full stack development**
+- 💬 Ask me about **Full stack development**
 
 - ⚡ Fun fact **I am an excellent cook**
 
-- 📫 How to reach me **rs4655742@gmail.com** 
+- 📫 How to reach me **aadarshpandey43@gmail.com** 
 
-- 🤗 Explore real-time weather updates with my Weather App: featuring a sleek design and user-friendly interface [**Weather App**](https://rahulsamanta82.github.io/Weather_app/)
+<!-- - 🤗 Explore real-time weather updates with my Weather App: featuring a sleek design and user-friendly interface [**Weather App**] (https://rahulsamanta82.github.io/Weather_app/)
+-->
 
-    <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:40px" />
+
+  <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:40px" />
   </td>
   <td>
     <img src="https://i.postimg.cc/SKTNNq7T/goku.png"/>
@@ -35,29 +37,23 @@
 
 ## 🌏 **CONNECT WITH ME**
 
-<a href="https://www.instagram.com/rs4655742/?hl=en"> 
+<a href="https://www.instagram.com/addy.20_/?hl=en"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
-<a href="8250301143"> 
+<a href="7905282460"> 
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
-<a href="rs4655742@gmail.com"> 
+<a href="aadarshpandey43@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a>
-<a href="https://github.com/rahulsamanta82"> 
+<a href="https://github.com/addy-pandey2025"> 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
 </a>
-<a href="https://x.com/rahulsamanta_82"> 
+<a href="https://x.com/AadarshP60320"> 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a>
-<a href="https://www.facebook.com/profile.php?id=100049247760466"> 
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
-</a>
-<a  href="https://www.linkedin.com/in/rahul-samanta-116572275/">
+<a  href="https://www.linkedin.com/in/aadarsh-tech">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
-</a>
-<a href="https://codepen.io/Rahul-Samanta"> 
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen"  alt="Codepen"/>
 </a>
 <a href="#"> 
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
