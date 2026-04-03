@@ -455,6 +455,3 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
- <a href = "https://github.com/rahulsamanta82/Hackbook/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=alexandresanlim/Badges4-README.md-Profile"/>
- </a>
